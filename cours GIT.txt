@@ -17,3 +17,5 @@
 # git revert SHAducommit : créé un nouveau commit qui annule les mises à jour du commit précedent
 
 # git commit --ammend -m "message" : remplace le message du dernier commit
+
+# git reset --hard : annule tous les changements non commités
