@@ -10,3 +10,10 @@
 # la touche q permet de quitter le log
 
 # git commit -a -m "message" : met a jour tous les fichiers existants préalablement ajoutés à l'index
+
+# git checkout SHAducommit : permet de se repositionner sur le commit choisi
+# git checkout master : repositionne au commit principal (le plus récent)
+
+# git revert SHAducommit : créé un nouveau commit qui annule les mises à jour du commit précedent
+
+# git commit --ammend -m "message" : remplace le message du dernier commit
