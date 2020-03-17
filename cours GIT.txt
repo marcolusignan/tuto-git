@@ -19,3 +19,5 @@
 # git commit --ammend -m "message" : remplace le message du dernier commit
 
 # git reset --hard : annule tous les changements non commités
+
+# git clone https://url : récupère sur mon pc le projet souhaité. L url est disponible sur le site github, bouton clone/download
