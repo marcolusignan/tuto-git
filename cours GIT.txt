@@ -28,3 +28,4 @@
 
 # git status : indique si le repository en cours nécessite un commit
 
+# git remote add origin url : permet d'indiquer au repository en cours qu'il doit utiliser l'url fournie par github comme endroit de sauvegarde
