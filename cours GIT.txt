@@ -21,3 +21,10 @@
 # git reset --hard : annule tous les changements non commités
 
 # git clone https://url : récupère sur mon pc le projet souhaité. L url est disponible sur le site github, bouton clone/download
+
+# git push origin master : envoi sur github le repository courant
+
+# git pull origin master : récupère les dernières modifications depuis github
+
+# git status : indique si le repository en cours nécessite un commit
+
