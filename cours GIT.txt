@@ -37,3 +37,16 @@
                        UTILISATION DES BRANCHES
 
 # Quand on initialise un repository git, notre code est placé par défaut sur la branche master
+
+# git branch : affiche les branches du repository courant. une * devant une branche indique la branche sur laquelle on est actuellement positionné
+
+# git branch nombranche : créé une nouvelle branche
+
+# git checkout nombranche : nous positionne sur la nouvelle branche
+
+# git checkout -b nombranche : créé une nouvelle branche et nous positionne dessus
+
+# git merge nombranche : fusionne la branche sur laquelle on est placé avec la branche nombranche
+# il faut régulièrement remettre les modifications faites sur les différentes branches dans la branche master
+
+
