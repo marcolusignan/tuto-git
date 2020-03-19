@@ -1,3 +1,5 @@
+                        INITIALISATION ET COMMIT
+
 # git init : initialise le dossier courant comme repository git
 
 # git add nomfichier : ajoute un fichier à l'index du repository
@@ -20,12 +22,18 @@
 
 # git reset --hard : annule tous les changements non commités
 
+                        ECHANGES AVEC GITHUB
+
 # git clone https://url : récupère sur mon pc le projet souhaité. L url est disponible sur le site github, bouton clone/download
 
-# git push origin master : envoi sur github le repository courant
+# git push origin master : envoi sur le remote (lieu de sauvegarde) d'origine github le repository master
 
 # git pull origin master : récupère les dernières modifications depuis github
 
 # git status : indique si le repository en cours nécessite un commit
 
-# git remote add origin url : permet d'indiquer au repository en cours qu'il doit utiliser l'url fournie par github comme endroit de sauvegarde
+# git remote add origin https://url : permet d'indiquer au repository en cours qu'il doit utiliser l'url fournie par github comme endroit de sauvegarde
+
+                       UTILISATION DES BRANCHES
+
+# Quand on initialise un repository git, notre code est placé par défaut sur la branche master
