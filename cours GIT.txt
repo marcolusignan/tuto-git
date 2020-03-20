@@ -34,7 +34,7 @@
 
 # git remote add origin https://url : permet d'indiquer au repository en cours qu'il doit utiliser l'url fournie par github comme endroit de sauvegarde
 
-                       UTILISATION DES BRANCHES
+                            UTILISATION DES BRANCHES
 
 # Quand on initialise un repository git, notre code est placé par défaut sur la branche master
 
