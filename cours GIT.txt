@@ -60,4 +60,4 @@
 
                         IGNORER DES fichiers
 
-# Les fichiers temporaires, de configuration ou créés par l'IDE doivent être ignorés par Git
+# Les fichiers temporaires, de configuration ou créés par l'IDE doivent être ignorés par git
