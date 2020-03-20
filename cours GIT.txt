@@ -61,3 +61,5 @@
                         IGNORER DES fichiers
 
 # Les fichiers temporaires, de configuration ou créés par l'IDE doivent être ignorés par git
+
+# pour ignorer des fichiers, il faut crééer un fichier .gitignore, écrire le nom de fichiers à ignorer (leur chemin s'ils ne sont pas dans le même dossier) et l'ajouter à l'index
