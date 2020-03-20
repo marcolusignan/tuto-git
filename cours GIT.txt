@@ -49,5 +49,15 @@
 # git merge nombranche : fusionne la branche sur laquelle on est placé avec la branche nombranche
 # il faut régulièrement remettre les modifications faites sur les différentes branches dans la branche master
 
+# un conflit peut survenir lors de la fusion de 2 branches, si le même fichier a été modifié sur chaque branche.
+# le conflit ser indiqué sur le fichier par git. Il faut le résoudre et faire un commit -a une fois qu'il est résolu.
 
+                        SAVOIR QUI A MODIFIE UN fichier
 
+# git blame nomfichier.ext : affiche l'historique des modifications  d'un avec l'identité de la personne l'ayant modifié et le debut du SHA du commit.
+
+# git show debutduSHA : donne les détails du commit choisi
+
+                        IGNORER DES fichiers
+
+# Les fichiers temporaires, de configuration ou créés par l'IDE doivent être ignorés par Git
