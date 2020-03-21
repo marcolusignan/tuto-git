@@ -63,3 +63,8 @@
 # Les fichiers temporaires, de configuration ou créés par l'IDE doivent être ignorés par git
 
 # pour ignorer des fichiers, il faut crééer un fichier .gitignore, écrire le nom de fichiers à ignorer (leur chemin s'ils ne sont pas dans le même dossier) et l'ajouter à l'index
+
+                        Eviter un commit superlu
+                    
+# git stash : en cas d'interruption de son travail, pour eviter d'alourdir l'historique des commit, on peut faire un stash
+# git stash pop : récupère le stash sur lequel on travaillait et le supprime. Il faudra alors faire un commit
