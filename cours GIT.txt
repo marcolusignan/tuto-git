@@ -68,3 +68,4 @@
                     
 # git stash : en cas d'interruption de son travail, pour eviter d'alourdir l'historique des commit, on peut faire un stash
 # git stash pop : récupère le stash sur lequel on travaillait et le supprime. Il faudra alors faire un commit
+# git stash apply : conserve les modifications du stash
